@@ -1,6 +1,6 @@
 # Pottermore Spell caster
 
-**This project is depricated** because Pottermore removed all their game like features :(
+**This project is deprecated** because Pottermore removed all their game like features :(
 
 In pottermore there was a spell casting minigame thast required a coordinated keyboard presses to cast a certain spell correctly, i thought of a way to automate the keyboard presses so i get consistely accurate spell casts.
 
